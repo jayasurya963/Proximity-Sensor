@@ -1,8 +1,8 @@
-✨ Project Note :)
+✨  Project Note :)
 
-   🚀 These are two unique ideas, built as two separate projects — one in Arduino, the other in Go — both exploring proximity sensing in their own way.
-      💡 Community contributions, updates, and enhancements are highly encouraged — every small improvement brings us closer to something bigger and better.
-            🤝 Let’s build!!
+🚀 These are two unique ideas, built as two separate projects — one in Arduino, the other in Go — both exploring proximity sensing in their own way.
+💡 Community contributions, updates, and enhancements are highly encouraged — every small improvement brings us closer to something bigger and better.
+🤝 Let’s build!!
 ---
 
  1. Arduino-Based Project
